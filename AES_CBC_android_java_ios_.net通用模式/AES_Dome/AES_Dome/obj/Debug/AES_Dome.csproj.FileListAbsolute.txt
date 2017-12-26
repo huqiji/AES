@@ -1,0 +1,6 @@
+I:\solution\Test\AES_Dome\AES_Dome\bin\Debug\AES_Dome.exe.config
+I:\solution\Test\AES_Dome\AES_Dome\bin\Debug\AES_Dome.exe
+I:\solution\Test\AES_Dome\AES_Dome\bin\Debug\AES_Dome.pdb
+I:\solution\Test\AES_Dome\AES_Dome\obj\Debug\AES_Dome.csprojResolveAssemblyReference.cache
+I:\solution\Test\AES_Dome\AES_Dome\obj\Debug\AES_Dome.exe
+I:\solution\Test\AES_Dome\AES_Dome\obj\Debug\AES_Dome.pdb
